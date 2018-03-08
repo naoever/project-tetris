@@ -1,5 +1,8 @@
 # project-tetris
 
+sample -- extremely simple.
+https://torisky.com/games/tetris/v0_7/index.html
+
 1) Take a look at some descriptions of how Tetris works, like https://www.wikihow.com/Play-Tetris -- what variables might you need to save in your program to keep track of the user's progress as they play? How many numbers does the game track and what do they all represent?
 
 #### variables I want to save
