@@ -43,3 +43,25 @@ document.getElementById(“outcome”).textcontent = “test”;
 Variable can be declared once.
 
 “Let” make the space in the memory
+
+<hr>
+
+Notes on our call today: CSS animation, graphics for Tetris
+
+Two main ways to do graphics on the web:
+1) Canvas API (draw pixels to a canvas element)
+2) Using multiple DOM elements with CSS/JavaScript animation
+
+Suggested resources / tutorials:
+- Check out p5js library for easier Canvas animations. They have a good beginner tutorial:
+https://p5js.org/get-started/
+
+- Intro to CSS animation with DOM elements, a pretty detailed intro guide:
+https://developer.mozilla.org/en-US/docs/Web/CSS/animation
+
+- CSS Animation 101 email course (4 week course, you can do it free or donate to the creator, he sends you a daily email teaching CSS animation in 10-minute mini lessons):
+https://cssanimation.rocks/courses/animation-101/
+
+- Can I use website tells you which browsers support features in HTML/CSS/JS:
+https://caniuse.com/
+   - Example, the "let" statement in JS is well supported: https://caniuse.com/#feat=let
