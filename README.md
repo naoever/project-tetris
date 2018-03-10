@@ -25,6 +25,23 @@ https://torisky.com/games/tetris/v0_7/index.html
 
 <hr>
 
+3. Outline your first implementation details
+Based on what you've learned so far, you can already start digging into how you'll start building the first prototype for your project! In your README.md file, write down some notes based on the following prompts. It's OK if they're just bullet points.
+
+How would you describe the inputs of your app? 
+What goes in? What data does your app take in from the user, if any? Will it get data from a databse or from a third-party service?
+
+How would you describe the outputs or possible outcomes of your app? 
+Based on those inputs, what does the app display to the user? What are some of the outcomes or results that your app produces based on how the user interacts with it?
+
+What would you store as variables in your JavaScript file for the first prototype of your app? 
+What does the computer need to remember between when the user starts the app and when they close the page?
+
+Which kinds of data types are these inputs/variables? 
+Are they strings of text? Numbers? Boolean values (true or false)?
+
+<hr>
+
 3/3
 http://hangman-v0-final.glitch.me/
 
